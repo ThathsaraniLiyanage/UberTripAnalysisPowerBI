@@ -28,8 +28,11 @@ Repository Contents
 * Excel/CSV datasets
 Dashboard Preview
 
-(Add your screenshot here once uploaded)
+
 <img width="1344" height="760" alt="image" src="https://github.com/user-attachments/assets/e83e95bd-591e-4e73-bc89-7da04960aa74" />
+<img width="1344" height="760" alt="Overview Analysis" src="https://github.com/user-attachments/assets/ebe6edb1-728d-44c1-88a6-1d9aa0f15f66" />
+<img width="1264" height="716" alt="Time Analysis" src="https://github.com/user-attachments/assets/5ee9118c-6fc6-4092-a7ac-5cab442a7b86" />
+
 
 
  About Me
